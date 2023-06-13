@@ -1,0 +1,34 @@
+.top-con {
+  display: flex;
+  background-color: #3367d6;
+  padding: 20px;
+}
+.imput-con {
+  background-color: #2850a7;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.search-input {
+  background: none;
+  outline: none;
+  border: 0px;
+  height: 30px;
+  width: 300px;
+}
+.para {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+.lower-con {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 800px;
+
+  box-shadow: 0px 6px 12px 0x black;
+}
